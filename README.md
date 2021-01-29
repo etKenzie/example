@@ -4,6 +4,6 @@ Informal Responses
 * Informal responses on the Frazier & Newman Paper
 
 ## Projects
-* [Project 1] (https://www.google.com/)
+* [Project 1](https://www.google.com/)
 
 
