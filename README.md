@@ -1,8 +1,9 @@
-# example
+# Index of Informal and Formal Assignments for Data 100 - Wicked Problems
 
-Hello Everyone welcome to my first markdown file. Here is a list of my favorite places. 
+Informal Responses
+* Informal responses on the Frazier & Newman Paper
 
-* Williamsburg, Virginia
-* Arlington, Virginia
-* Berlin, Germany
-* Shanghai, China
+## Projects
+* [Project 1]{https://www.google.com/}
+
+
